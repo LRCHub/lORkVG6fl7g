@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "What is love?",
+  "base_artist": "Cosmoslay",
+  "createdAt": "2026-04-03T11:56:33.280577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Is Love",
+      "artist": "Black Box",
+      "has_synced": false,
+      "path": "select/01_What_Is_Love_Black_Box.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What Is Love - Rapino-Brothers-Mix",
+      "artist": "Haddaway",
+      "has_synced": false,
+      "path": "select/02_What_Is_Love_-_Rapino-Brothers-Mix_Haddaway.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What Is Love (Rapino-Brothers-mix)",
+      "artist": "Haddaway",
+      "has_synced": true,
+      "path": "select/03_What_Is_Love_(Rapino-Brothers-mix)_Haddaway.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What Is Love?",
+      "artist": "Deee-Lite",
+      "has_synced": true,
+      "path": "select/04_What_Is_Love_Deee-Lite.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What Is Love?",
+      "artist": "Deee‐Lite",
+      "has_synced": true,
+      "path": "select/05_What_Is_Love_Deee‐Lite.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What Is Love",
+      "artist": "Haddaway",
+      "has_synced": true,
+      "path": "select/06_What_Is_Love_Haddaway.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Is Love? (LP version)",
+      "artist": "Deee‐Lite",
+      "has_synced": true,
+      "path": "select/07_What_Is_Love__(LP_version)_Deee‐Lite.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Is Love",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Casey Abrams",
+      "has_synced": true,
+      "path": "select/08_What_Is_Love_Scott_Bradlee's_Postmodern_Jukebox_feat._Casey_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What Is Love",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/09_What_Is_Love_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What Is Love - Karaoke",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/10_What_Is_Love_-_Karaoke_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What Is Love (Karaoke)",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/11_What_Is_Love_(Karaoke)_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What Is Love",
+      "artist": "Deborah Harry",
+      "has_synced": false,
+      "path": "select/12_What_Is_Love_Deborah_Harry.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What Is Love?",
+      "artist": "Howard Jones",
+      "has_synced": true,
+      "path": "select/13_What_Is_Love_Howard_Jones.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What Is Love? - Extended Mix",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/14_What_Is_Love__-_Extended_Mix_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What Is Love",
+      "artist": "Kingdom feat. SZA",
+      "has_synced": false,
+      "path": "select/15_What_Is_Love_Kingdom_feat._SZA.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What Is Love (feat. SZA)",
+      "artist": "Kingdom",
+      "has_synced": false,
+      "path": "select/16_What_Is_Love_(feat._SZA)_Kingdom.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "What Is Love",
+      "artist": "Alannah Myles",
+      "has_synced": true,
+      "path": "select/17_What_Is_Love_Alannah_Myles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What is love?",
+      "artist": "Cosmoslay",
+      "has_synced": false,
+      "path": "select/pl_01_What_is_love_Cosmoslay.txt"
+    }
+  ]
+}
